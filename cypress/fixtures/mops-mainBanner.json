@@ -1,0 +1,1332 @@
+{
+    "mainBanner": {
+        "bannerItems": [
+            {
+                "officeBannerCampaignModel": null,
+                "link": {
+                    "id": "CampaignBannerItem_0",
+                    "url": "https://www.gov.il/he/pages/domestic_violence_1",
+                    "isExternal": true
+                },
+                "imgDesktop": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/web_kol_kore.png",
+                    "alt": "פנייה מוקדמת לקבלת מידע בעניין אלימות במשפחה",
+                    "copyrights": "",
+                    "description": null
+                },
+                "imgMobile": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/mobail_kol_kore.png",
+                    "alt": "פנייה מוקדמת לקבלת מידע",
+                    "copyrights": "",
+                    "description": null
+                }
+            },
+            {
+                "officeBannerCampaignModel": null,
+                "link": {
+                    "id": "CampaignBannerItem_1",
+                    "url": "https://www.gov.il/he/pages/benefits_and_concessions",
+                    "isExternal": true
+                },
+                "imgDesktop": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/benefits_for_reserve_servicemen_web.png",
+                    "alt": "אגף רישוי ופיקוח כלי ירייה הטבות והקלות לחיילי מילואים פעילים ",
+                    "copyrights": "",
+                    "description": null
+                },
+                "imgMobile": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/Mobile_benefits_for_reserve_servicemen.png",
+                    "alt": "אגף רישוי ופיקוח כלי ירייה הטבות והקלות לחיילי מילואים פעילים ",
+                    "copyrights": "",
+                    "description": null
+                }
+            },
+            {
+                "officeBannerCampaignModel": {
+                    "title": "הגישו עכשיו בקשה לנשיאת כלי ירייה פרטי",
+                    "subTitle": "ניתן להגיש בקשה גם ללא פנייה למוקד השירות",
+                    "buttonTitle": "להגשת בקשה לחצו כאן",
+                    "backgroundIsBlack": false
+                },
+                "link": {
+                    "id": "CampaignBannerItem_2",
+                    "url": "https://www.gov.il/he/service/issue_firearms_license_to_a_private_individual",
+                    "isExternal": true
+                },
+                "imgDesktop": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/home-new-size-2023 (1).png",
+                    "alt": "באנר שוטרים וכבאים",
+                    "copyrights": "",
+                    "description": null
+                },
+                "imgMobile": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/home-new-size-2023.png",
+                    "alt": "באנר שוטרים וכבאים",
+                    "copyrights": "",
+                    "description": null
+                }
+            },
+            {
+                "officeBannerCampaignModel": null,
+                "link": {
+                    "id": "CampaignBannerItem_3",
+                    "url": "https://www.gov.il/he/departments/Units/unit_municipal_policing",
+                    "isExternal": false
+                },
+                "imgDesktop": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/באנר שיטור עירוני ווב.png",
+                    "alt": "מעערכי אכיפה עירוניים",
+                    "copyrights": "",
+                    "description": null
+                },
+                "imgMobile": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/באנר שיטור עירוני מובייל (340 x 200 פיקסל).png",
+                    "alt": "מערכי אכיפה עירוניים",
+                    "copyrights": "",
+                    "description": null
+                }
+            },
+            {
+                "officeBannerCampaignModel": null,
+                "link": {
+                    "id": "CampaignBannerItem_4",
+                    "url": "https://www.gov.il/he/departments/witness_protection_authority/govil-landing-page",
+                    "isExternal": true
+                },
+                "imgDesktop": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/הרשות להגנה על עדים ווב (1).png",
+                    "alt": "הרשות להגנה על עדים ווב",
+                    "copyrights": "",
+                    "description": null
+                },
+                "imgMobile": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/הרשות להגנה על עדים מובייל (340 x 200 פיקסל) (1).png",
+                    "alt": "הרשות להגנה על עדים מובייל",
+                    "copyrights": "",
+                    "description": null
+                }
+            },
+            {
+                "officeBannerCampaignModel": null,
+                "link": {
+                    "id": "CampaignBannerItem_5",
+                    "url": "https://www.gov.il/he/departments/Units/unit_land_law_enforcement_negev",
+                    "isExternal": true
+                },
+                "imgDesktop": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/minhelet.png",
+                    "alt": "מנהלת דרום אתר ",
+                    "copyrights": "",
+                    "description": null
+                },
+                "imgMobile": {
+                    "src": "/blobFolder/office/ministry_of_public_security/he/minhelet_mobile.png",
+                    "alt": "מנהלת דרום מובייל",
+                    "copyrights": "",
+                    "description": null
+                }
+            }
+        ],
+        "bannerCarouselOptionsModel": {
+            "autoPlay": true,
+            "playInterval": 8000
+        },
+        "campeinBannerGalleryAccesability": "שדה של תמונות מתחלפות מעבר בין התמונות על ידי לחיצה על טאב לחיצה על מקש אנטר תפתח את רכיב הנושא לחיצה על shift+tab מחזירה לתמונה הקודמת",
+        "resources": {
+            "button": "כפתור",
+            "movementBetween": "מעבר בין",
+            "slides": "שקופיות",
+            "outOf": "מתוך",
+            "playAndStop": "הפעל/השהה"
+        }
+    },
+    "mainBannerVideo": null,
+    "alertsStrip": {
+        "pagingResource": "מתוך",
+        "alerts": [
+            {
+                "alert": {
+                    "title": "סקר חווית השירות - שתפו אותנו",
+                    "alt": null,
+                    "id": "alert_0",
+                    "url": "https://survey.gov.il/he/Sek2022",
+                    "isExternal": true
+                },
+                "date": "20.03.2023"
+            }
+        ]
+    },
+    "newsStrip": {
+        "stripModel": {
+            "newsCarousel": null,
+            "news4Strip": {
+                "items": [
+                    {
+                        "metaData": [
+                            "12/11/25",
+                            "חדשות"
+                        ],
+                        "title": "ביקור משלחת בכירה ממדינת תורינגיה, גרמניה",
+                        "description": "היום (12.11.25) אירח המשרד לביטחון לאומי משלחת רשמית ממדינת תורינגיה שבגרמניה בראשות שר הפנים וסגן ראש הממשלה מר ג'ורג' מאייר.",
+                        "imageObj": {
+                            "src": "/blobFolder/news/thuringia_delegation/he/משלחת תורינגיה.png",
+                            "alt": "משלחת תורינגיה",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "ביקור משלחת בכירה ממדינת תורינגיה, גרמניה",
+                            "alt": null,
+                            "id": "news4Strip_0",
+                            "url": "https://www.gov.il/he/pages/thuringia_delegation",
+                            "isExternal": false
+                        },
+                        "shortTitle": "12/11/25   |   חדשות"
+                    },
+                    {
+                        "metaData": [
+                            "05/11/25",
+                            "חדשות"
+                        ],
+                        "title": "הכנס השנתי של יחידת \"משגב\" בשירות בתי הסוהר",
+                        "description": "בתאריך 5 בנובמבר 2025 נערך כנס של יחידת משגב בהובלת שירות בתי הסוהר. בכנס השתתפו בכירים במשרד לביטחון לאומי לצד בכירים בשירות בתי הסוהר ובראשם הנציב קובי יעקובי.",
+                        "imageObj": {
+                            "src": "/blobFolder/news/mishgav_conference/he/עיצוב ללא שם (3).png",
+                            "alt": "כנס משגב",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "הכנס השנתי של יחידת \"משגב\" בשירות בתי הסוהר",
+                            "alt": null,
+                            "id": "news4Strip_1",
+                            "url": "https://www.gov.il/he/pages/mishgav_conference",
+                            "isExternal": false
+                        },
+                        "shortTitle": "05/11/25   |   חדשות"
+                    },
+                    {
+                        "metaData": [
+                            "30/10/25",
+                            "חדשות"
+                        ],
+                        "title": "תרגיל לאומי “ארץ רעשה 2025\"- היערכות כוללת של מדינת ישראל למצבי חירום",
+                        "description": "בתאריך 29.10.2025 נפתח תרגיל “ארץ רעשה 2”\u00A0 תרגיל בין־משרדי רחב היקף בהובלת המשרד לביטחון לאומי – אגף ביטחון, חירום וסייבר, ובשיתוף כלל גופי הביטחון, ההצלה והחירום במדינת ישראל.",
+                        "imageObj": {
+                            "src": "/blobFolder/news/national_exercise/he/עיצוב ללא שם (2).png",
+                            "alt": "ארץ רעשה 2025",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "תרגיל לאומי “ארץ רעשה 2025\"- היערכות כוללת של מדינת ישראל למצבי חירום",
+                            "alt": null,
+                            "id": "news4Strip_2",
+                            "url": "https://www.gov.il/he/pages/national_exercise",
+                            "isExternal": false
+                        },
+                        "shortTitle": "30/10/25   |   חדשות"
+                    },
+                    {
+                        "metaData": [
+                            "27/10/25",
+                            "חדשות"
+                        ],
+                        "title": "ביקור גומלין לחיזוק שיתוף הפעולה בביטחון הלאומי",
+                        "description": "בין התאריכים 19–22 באוקטובר 2025 התקיים בישראל ביקור גומלין רשמי של שר הפנים של גיאורגיה, מר גלה גלדזה, בליווי משלחת בכירה ממשרדו שכללה את סגן השר מר אלכסנדריי דרחוואלידזה. הביקור התקיים במעמד השר לביטחון לאומי, ח״כ איתמר בן גביר, ואורגן על ידי אגף קשרי חוץ במשרד לביטחון לאומי, בראשות סילביה גריין.",
+                        "imageObj": {
+                            "src": "/blobFolder/news/mshlahat/he/משלחת.jpg",
+                            "alt": "משלחת גאורגיה",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "ביקור גומלין לחיזוק שיתוף הפעולה בביטחון הלאומי",
+                            "alt": null,
+                            "id": "news4Strip_3",
+                            "url": "https://www.gov.il/he/pages/mshlahat",
+                            "isExternal": false
+                        },
+                        "shortTitle": "27/10/25   |   חדשות"
+                    }
+                ]
+            },
+            "newsNoPictureTitle": "",
+            "newsNoPictureStrip": null,
+            "stripButton": null,
+            "newsWithImageButton": null,
+            "expandButtonOptions": {
+                "isExpanded": false,
+                "showLessTitle": "הצג פחות",
+                "showMoreTitle": "עוד חדשות",
+                "isSmallButton": false
+            }
+        },
+        "stripTitle": "חדשות",
+        "stripDescription": "",
+        "linkToMore": {
+            "title": "לכל החדשות",
+            "alt": null,
+            "id": "news_toAllNews",
+            "url": "https://www.gov.il/he/collectors/news/?officeId=a4558f18-657b-450e-87c3-32d70f6e07b5&UnitId=&TopicId=&SubTopicId=&TargetAudienceId=&subTargetAudienceId=",
+            "isExternal": false
+        },
+        "id": "news-strip-container",
+        "containerClass": null,
+        "order": 2
+    },
+    "dynamicStrip": {
+        "stripModel": {
+            "dynamicStrip": {
+                "galleryItems": [
+                    {
+                        "imageObj": {
+                            "src": "/blobFolder/office/ministry_of_public_security/he/home_icons_CONTACT.jpg",
+                            "alt": "צרו קשר",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "יצירת קשר",
+                            "alt": null,
+                            "id": "DynamicItem_0",
+                            "url": "https://www.gov.il/he/Departments/General/contact-us-mops",
+                            "isExternal": false
+                        },
+                        "shortTitle": null
+                    },
+                    {
+                        "imageObj": {
+                            "src": "/blobFolder/office/ministry_of_public_security/he/משרות.png",
+                            "alt": "",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "דרושים למשרד",
+                            "alt": null,
+                            "id": "DynamicItem_1",
+                            "url": "https://www.gov.il/he/collectors/publications?officeId=a4558f18-657b-450e-87c3-32d70f6e07b5&limit=10&Type=0ec5a7ef-977c-459f-8c0a-dcfbe35c8164",
+                            "isExternal": false
+                        },
+                        "shortTitle": null
+                    },
+                    {
+                        "imageObj": {
+                            "src": "/blobFolder/office/ministry_of_public_security/he/home_icons_CAMERAS.jpg",
+                            "alt": "מצלמות א-3",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "מצלמות אכיפה בכבישים",
+                            "alt": null,
+                            "id": "DynamicItem_2",
+                            "url": "https://www.gov.il/he/Departments/General/traffic_enforcement_cameras",
+                            "isExternal": false
+                        },
+                        "shortTitle": null
+                    },
+                    {
+                        "imageObj": {
+                            "src": "/blobFolder/office/ministry_of_public_security/he/home_icons_GEO.jpg",
+                            "alt": "מידע גאוגרפי ",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "מידע גאוגרפי",
+                            "alt": null,
+                            "id": "DynamicItem_3",
+                            "url": "https://www.gov.il/he/departments/general/geo-information",
+                            "isExternal": false
+                        },
+                        "shortTitle": null
+                    },
+                    {
+                        "imageObj": {
+                            "src": "/blobFolder/office/ministry_of_public_security/he/home_icons_VEHICLES.jpg",
+                            "alt": "השבתת כלי ירכב",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "השבתת כלי רכב",
+                            "alt": null,
+                            "id": "DynamicItem_4",
+                            "url": "https://www.gov.il/he/Departments/Guides/police_vehicle_confiscation",
+                            "isExternal": false
+                        },
+                        "shortTitle": null
+                    },
+                    {
+                        "imageObj": {
+                            "src": "/blobFolder/office/ministry_of_public_security/he/עיצוב ללא שם (3).png",
+                            "alt": "בירור מצב נקודות החובה שנצברו לנהג.",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "בירור מצב נקודות החובה שנצברו לנהג",
+                            "alt": null,
+                            "id": "DynamicItem_5",
+                            "url": "https://www.gov.il/he/departments/guides/scoring_system_traffic_offens?chapterIndex=7",
+                            "isExternal": true
+                        },
+                        "shortTitle": null
+                    }
+                ],
+                "iconsDisplay": false,
+                "galleryOptions": null,
+                "name": "DynamicStripGallery",
+                "centerDisplay": false
+            },
+            "stripButton": null
+        },
+        "stripTitle": "מידע שימושי",
+        "stripDescription": null,
+        "linkToMore": null,
+        "id": "dynamic-strip-container",
+        "containerClass": null,
+        "order": 3
+    },
+    "dynamicIconsStrip": null,
+    "richdynamicStrip": null,
+    "dynamicLinksStrip": null,
+    "relatedEntitiesStrip": {
+        "stripModel": {
+            "galleryItems": [
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/office/ministry-of-public-security-firearms/he/המשרד לביטחון הפנים logo.png",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "האגף לרישוי כלי ירייה",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_0",
+                        "url": "https://www.gov.il/he/departments/ministry-of-public-security-firearms",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                },
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/office/israel_police/he/israel_police.png",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "משטרת ישראל",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_1",
+                        "url": "https://www.gov.il/he/departments/israel_police",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                },
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/office/firefighting_and_rescue_israel/he/firefighting_and_rescue_israel.png",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "כבאות והצלה לישראל",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_2",
+                        "url": "https://www.gov.il/he/departments/firefighting_and_rescue_israel",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                },
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/office/prison_service/he/סמל חדש.png",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "שירות בתי הסוהר",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_3",
+                        "url": "https://www.gov.il/he/departments/prison_service",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                },
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/office/national_authority_for_community_safety/he/logorashot.jpg",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "הרשות הלאומית לביטחון קהילתי",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_4",
+                        "url": "https://www.gov.il/he/departments/national_authority_for_community_safety",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                },
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/office/witness_protection_authority/he/witness1.jpg",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "הרשות להגנה על עדים",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_5",
+                        "url": "https://www.gov.il/he/departments/witness_protection_authority",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                },
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/office/child_online_protection_bureau/he/child_online_protection_bureau.png",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "המטה הלאומי להגנה על ילדים ברשת",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_6",
+                        "url": "https://www.gov.il/he/departments/child_online_protection_bureau",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                },
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/office/israel_national_guard_committee/he/menora.png",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "הוועדה להקמת המשמר הלאומי לישראל",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_7",
+                        "url": "https://www.gov.il/he/departments/israel_national_guard_committee",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                },
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/unit/unit_municipal_policing/he/municipal_policing.jpg",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "מערכי אכיפה עירוניים – שיטור עירוני",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_8",
+                        "url": "https://www.gov.il/he/departments/Units/unit_municipal_policing",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                },
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/unit/unit_land_law_enforcement_negev/he/minhelet-darom-logo_120.png",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "מִנהלת דרום לתיאום האכיפה של דיני המקרקעין",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_9",
+                        "url": "https://www.gov.il/he/departments/Units/unit_land_law_enforcement_negev",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                },
+                {
+                    "imageObj": {
+                        "src": "/blobFolder/unit/unit_police_prison_ombudsman/he/Netzivut-logo.jpg",
+                        "alt": "",
+                        "copyrights": null,
+                        "description": null
+                    },
+                    "linkObj": {
+                        "title": "נציבות קבילות השוטרים והסוהרים",
+                        "alt": null,
+                        "id": "relatedEntitiesGallery_10",
+                        "url": "https://www.gov.il/he/departments/Units/unit_police_prison_ombudsman",
+                        "isExternal": false
+                    },
+                    "shortTitle": null
+                }
+            ],
+            "iconsDisplay": true,
+            "galleryOptions": null,
+            "name": "relatedEntitiesGallery",
+            "centerDisplay": false
+        },
+        "stripTitle": "גופי סמך ויחידות קשורות",
+        "stripDescription": "",
+        "linkToMore": null,
+        "id": "related-entities-strip-container",
+        "containerClass": null,
+        "order": 1
+    },
+    "targetAudienceStrip": null,
+    "aboutStrip": {
+        "stripModel": {
+            "description": "המשרד לביטחון לאומי הוא גוף מטה משולב האמון על אכיפת החוק, על שמירת הסדר הציבורי ועל פעילות ביטחון הפנים במדינה באמצעות: משטרת ישראל, שירות בתי הסוהר, הרשות הארצית לכבאות והצלה, המטה הלאומי להגנה על ילדים ברשת, הרשות הלאומית לביטחון קהילתי, הרשות להגנה על עדים, והאגף לרישוי כלי ירייה.",
+            "readMore": {
+                "title": "קראו עוד אודות המשרד",
+                "alt": null,
+                "id": "about_readMore",
+                "url": "https://www.gov.il/he/pages/about_the_ministry",
+                "isExternal": false
+            },
+            "roleHoldersTitle": "בעלי תפקידים",
+            "roleHolders": {
+                "galleryItems": [
+                    {
+                        "imageObj": {
+                            "src": "/blobFolder/roleholder/itamar_ben_gabir/he/איתמר בן גביר.jpeg",
+                            "alt": "איתמר בן גביר",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "ח\"כ איתמר בן גביר",
+                            "alt": null,
+                            "id": "rh_0",
+                            "url": "https://www.gov.il/he/pages/itamar_ben_gabir",
+                            "isExternal": false
+                        },
+                        "shortTitle": "השר לביטחון לאומי"
+                    },
+                    {
+                        "imageObj": {
+                            "src": "/blobFolder/roleholder/refol/he/home_raful.jpg",
+                            "alt": "רפול אנגל",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "רפול אנגל ",
+                            "alt": null,
+                            "id": "rh_1",
+                            "url": "https://www.gov.il/he/pages/refol",
+                            "isExternal": false
+                        },
+                        "shortTitle": "מנכ\"ל המשרד לביטחון לאומי"
+                    },
+                    {
+                        "imageObj": {
+                            "src": "/blobFolder/roleholder/miri/he/home_miri_s.jpg",
+                            "alt": "מירי שמואלי",
+                            "copyrights": null,
+                            "description": null
+                        },
+                        "linkObj": {
+                            "title": "מירי שמואלי",
+                            "alt": null,
+                            "id": "rh_2",
+                            "url": "https://www.gov.il/he/pages/miri",
+                            "isExternal": false
+                        },
+                        "shortTitle": "המשנה למנכ\"ל"
+                    }
+                ],
+                "iconsDisplay": false,
+                "galleryOptions": {
+                    "itemsNumberLg": 3,
+                    "itemsNumberXl": 3,
+                    "hidePagination": true
+                },
+                "name": "roleHolderGallery",
+                "centerDisplay": false
+            },
+            "aboutButtons": [
+                {
+                    "title": "מבנה ארגוני",
+                    "alt": null,
+                    "id": "about_OrganizationStructure",
+                    "url": "https://www.gov.il/he/Departments/General/mops_organizational_structure",
+                    "isExternal": false
+                },
+                {
+                    "title": "יחידות המשרד",
+                    "alt": null,
+                    "id": "about_AllOrExtUnits",
+                    "url": "https://www.gov.il//he/departments/Units/?OfficeId=a4558f18-657b-450e-87c3-32d70f6e07b5",
+                    "isExternal": false
+                }
+            ],
+            "contactButtons": [
+                {
+                    "title": "חופש המידע",
+                    "alt": null,
+                    "id": "about_contactButtons_PublicInquiries",
+                    "url": "https://www.gov.il/he/departments/guides/freedom_of_info",
+                    "isExternal": false
+                },
+                {
+                    "title": "נגישות",
+                    "alt": null,
+                    "id": "about_contactButtons_AccessibilityButton",
+                    "url": "https://www.gov.il/he/Departments/General/accessibility-mops",
+                    "isExternal": true
+                }
+            ],
+            "contactDetails": {
+                "title": "צרו קשר",
+                "mainPhone": null,
+                "contactModelItems": [
+                    {
+                        "title": null,
+                        "contactDetails": [
+                            {
+                                "name": "כתובת",
+                                "value": {
+                                    "title": "רחוב קלרמון גנו, בניין ג', הקריה המזרחית, ירושלים 9118101",
+                                    "alt": null,
+                                    "id": null,
+                                    "url": "",
+                                    "isExternal": false
+                                }
+                            }
+                        ],
+                        "contactLinks": [
+                            {
+                                "title": "יצירת קשר עם יחידות המשרד",
+                                "alt": null,
+                                "id": null,
+                                "url": "https://www.gov.il/he/Departments/General/contact-us-mops",
+                                "isExternal": false
+                            }
+                        ],
+                        "summary": null
+                    }
+                ],
+                "note": null
+            },
+            "expandButtonOptions": {
+                "isExpanded": false,
+                "showLessTitle": "הצג פחות",
+                "showMoreTitle": "הצג עוד",
+                "isSmallButton": true
+            }
+        },
+        "stripTitle": "אודות המשרד",
+        "stripDescription": "",
+        "linkToMore": null,
+        "id": "about-strip-container",
+        "containerClass": null,
+        "order": 4
+    },
+    "loadingTabsStrip": {
+        "stripModel": {
+            "items": [
+                {
+                    "title": "פרסומים",
+                    "sourceUrl": "https://www.gov.il/govil-landing-page-api/he/api/offices/getTabItems/publication?officeId=a4558f18-657b-450e-87c3-32d70f6e07b5&unitId=&topicId=&subTopic=&promotedData=&targetAudienceId=&subTargetAudienceId=",
+                    "id": "rfp_",
+                    "selected": false,
+                    "expandButtonOptions": {
+                        "isExpanded": false,
+                        "showLessTitle": "הסתר פרסומים",
+                        "showMoreTitle": "עוד פרסומים",
+                        "isSmallButton": false
+                    },
+                    "externalLink": {
+                        "title": "לכל הפרסומים",
+                        "alt": null,
+                        "id": null,
+                        "url": "he/departments/publications/?officeId=a4558f18-657b-450e-87c3-32d70f6e07b5",
+                        "isExternal": false
+                    },
+                    "buttons": []
+                },
+                {
+                    "title": "מדיניות ונהלים",
+                    "sourceUrl": "https://www.gov.il/govil-landing-page-api/he/api/offices/getTabItems/policies?officeId=a4558f18-657b-450e-87c3-32d70f6e07b5&unitId=&topicId=&subTopic=&promotedData=fbb5551e-ff54-4efd-9b95-e749406eaf4a,93e8751e-0c97-440d-ab68-db141083f520&targetAudienceId=&subTargetAudienceId=",
+                    "id": "policies_",
+                    "selected": false,
+                    "expandButtonOptions": {
+                        "isExpanded": false,
+                        "showLessTitle": "הסתר מדיניות",
+                        "showMoreTitle": "עוד מדיניות",
+                        "isSmallButton": false
+                    },
+                    "externalLink": {
+                        "title": "לכל דפי המדיניות והנהלים",
+                        "alt": null,
+                        "id": null,
+                        "url": "he/departments/policies/?officeId=a4558f18-657b-450e-87c3-32d70f6e07b5",
+                        "isExternal": false
+                    },
+                    "buttons": []
+                },
+                {
+                    "title": "מידע משפטי",
+                    "sourceUrl": "https://www.gov.il/govil-landing-page-api/he/api/offices/getTabItems/legalInfo?officeId=a4558f18-657b-450e-87c3-32d70f6e07b5&unitId=&topicId=&subTopic=&promotedData=&targetAudienceId=&subTargetAudienceId=",
+                    "id": "legalinfo_",
+                    "selected": false,
+                    "expandButtonOptions": {
+                        "isExpanded": false,
+                        "showLessTitle": "הסתר מידע משפטי",
+                        "showMoreTitle": "עוד מידע משפטי",
+                        "isSmallButton": false
+                    },
+                    "externalLink": {
+                        "title": "לכל דפי המידע המשפטי",
+                        "alt": null,
+                        "id": null,
+                        "url": "he/departments/legalInfo/?officeId=a4558f18-657b-450e-87c3-32d70f6e07b5",
+                        "isExternal": false
+                    },
+                    "buttons": []
+                }
+            ],
+            "emptyTabTitle": "אין תוכן להצגה",
+            "emptyTabSubTitle": "תוכן יעלה בקרוב ויוצג כאן",
+            "tabItemLimit": 12
+        },
+        "stripTitle": "ריכזנו את המידע עבורכם",
+        "stripDescription": null,
+        "linkToMore": null,
+        "id": "loading-tabs-strip-container",
+        "containerClass": null,
+        "order": 12
+    },
+    "servicesStrip": {
+        "stripModel": {
+            "iconBoxes": [
+                {
+                    "description": " שירות זה מאפשר להגיש פנייה או תלונה למשרד לביטחון לאומי. ",
+                    "icon": "/blobFolder/service/submit_an_inquiry_or_complaint/he/מבקר המדינה ותלונות הציבור.png",
+                    "link": {
+                        "title": "פניות הציבור - המשרד לביטחון לאומי",
+                        "alt": null,
+                        "id": "service_item_0",
+                        "url": "https://www.gov.il/he/service/submit_an_inquiry_or_complaint",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                },
+                {
+                    "description": "  שירות זה מאפשר לשוטרים וסוהרים או לנציגים מטעמם להגיש קבילה לנציבות קבילות השוטרים והסוהרים במשרד לביטחון לאומי.  ",
+                    "icon": "/blobFolder/service/complaints_process/he/icons_service-icon.png",
+                    "link": {
+                        "title": "הגשת קבילה לנציבות קבילות השוטרים והסוהרים",
+                        "alt": null,
+                        "id": "service_item_1",
+                        "url": "https://www.gov.il/he/service/complaints_process",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                },
+                {
+                    "description": "  שירות זה מאפשר למי שנדחתה בקשתו הנוגעת לרישיון כלי הירייה או בוטל רישיונו, להגיש ערעור על כך.  ",
+                    "icon": "/blobFolder/service/firearm_license_appeal/he/icons_service-icon.png",
+                    "link": {
+                        "title": "הגשת ערר על דחיית בקשה או ביטול לרישיון כלי ירייה",
+                        "alt": null,
+                        "id": "service_item_2",
+                        "url": "https://www.gov.il/he/service/firearm_license_appeal",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                },
+                {
+                    "description": " שירות זה מאפשר לבעלי עסקים להגיש מסמכים לבקר הרישוי בתחנת המשטרה. ",
+                    "icon": "/blobFolder/service/submitting-business-documents-for-police-inspection/he/icons_service-icon.png",
+                    "link": {
+                        "title": "הגשת מסמכי רישוי עסקים לביקורת במשטרת ישראל",
+                        "alt": null,
+                        "id": "service_item_3",
+                        "url": "https://www.gov.il/he/service/submitting-business-documents-for-police-inspection",
+                        "isExternal": false
+                    },
+                    "onlineService": {
+                        "title": "שירות מקוון",
+                        "iconUrl": null
+                    }
+                },
+                {
+                    "description": " שירות זה מאפשר להגיש בקשה להחזקת כלי ירייה למזכרת במקרים של ירושה או שימור כלי ירייה אישי.   ",
+                    "icon": "/blobFolder/servicequestionnaire/firearm_license_for_memento_of_deceased/he/251.png",
+                    "link": {
+                        "title": "בקשה להחזקת כלי ירייה למזכרת",
+                        "alt": null,
+                        "id": "service_item_4",
+                        "url": "https://www.gov.il/he/service/firearm_license_for_memento_of_deceased",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                },
+                {
+                    "description": "שירות זה מאפשר למדריכי ירי לחדש את רישיונם לפני תום תוקף הרישיון.",
+                    "icon": "/blobFolder/service/firearm_shooting_guide_license_renewal/he/icons_rishoy klei yeria.png",
+                    "link": {
+                        "title": "חידוש רישיון מדריך ירי",
+                        "alt": null,
+                        "id": "service_item_5",
+                        "url": "https://www.gov.il/he/service/firearm_shooting_guide_license_renewal",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                },
+                {
+                    "description": " שירות זה מספק מידע לבעלי רישיון לנשיאת כלי ירייה פרטי על חידוש רישיון כלי הירייה.  ",
+                    "icon": "/blobFolder/service/private_firearm_license_renewal/he/251.png",
+                    "link": {
+                        "title": "חידוש רישיון לכלי ירייה פרטי",
+                        "alt": null,
+                        "id": "service_item_6",
+                        "url": "https://www.gov.il/he/service/private_firearm_license_renewal",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                },
+                {
+                    "description": " שירות זה מספק מידע למאבטחים על חידוש רישיון כלי הירייה הארגוני.  ",
+                    "icon": "/blobFolder/service/armed_guard_firearm_license_renewal/he/251.png",
+                    "link": {
+                        "title": "חידוש רישיון כלי ירייה ארגוני (למאבטח)",
+                        "alt": null,
+                        "id": "service_item_7",
+                        "url": "https://www.gov.il/he/service/armed_guard_firearm_license_renewal",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                },
+                {
+                    "description": "שירות זה מאפשר להגיש בקשת רישיון לכלי ירייה פרטי.",
+                    "icon": "/blobFolder/service/issue_firearms_license_to_a_private_individual/he/icons_service-icon.png",
+                    "link": {
+                        "title": "בקשת רישיון לכלי ירייה פרטי",
+                        "alt": null,
+                        "id": "service_item_8",
+                        "url": "https://www.gov.il/he/service/issue_firearms_license_to_a_private_individual",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                },
+                {
+                    "description": " שירות זה מאפשר להגיש בקשה לקבלת רישיון להפעיל מועדון לדמויי כלי ירייה. ",
+                    "icon": "/blobFolder/service/application-firearm-like-club-license/he/icons_service-icon.png",
+                    "link": {
+                        "title": "בקשת רישיון למועדון לדמויי כלי ירייה",
+                        "alt": null,
+                        "id": "service_item_9",
+                        "url": "https://www.gov.il/he/service/application-firearm-like-club-license",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                },
+                {
+                    "description": " שירות זה מאפשר להגיש בקשה לקבלת רישיון להפעיל בית מסחר לדמויי כלי ירייה. ",
+                    "icon": "/blobFolder/service/application-license-firearm-like-commercial-house/he/icons_service-icon.png",
+                    "link": {
+                        "title": "בקשת רישיון לבית מסחר לדמויי כלי ירייה ",
+                        "alt": null,
+                        "id": "service_item_10",
+                        "url": "https://www.gov.il/he/service/application-license-firearm-like-commercial-house",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                },
+                {
+                    "description": "שירות זה מאפשר להגיש בקשה לקבלת רישיון לנשיאת כלי ירייה ארגוני כדי לעבוד כמאבטח.",
+                    "icon": "/blobFolder/service/firearm_guard_license_application/he/icons_service-icon.png",
+                    "link": {
+                        "title": "בקשת רישיון לכלי ירייה ארגוני (למאבטח)",
+                        "alt": null,
+                        "id": "service_item_11",
+                        "url": "https://www.gov.il/he/service/firearm_guard_license_application",
+                        "isExternal": false
+                    },
+                    "onlineService": null
+                }
+            ],
+            "expandButtonOptions": {
+                "isExpanded": false,
+                "showLessTitle": "הצג פחות שירותים",
+                "showMoreTitle": "הצג עוד שירותים",
+                "isSmallButton": false
+            },
+            "dynamicButton": null
+        },
+        "stripTitle": "שירותים",
+        "stripDescription": null,
+        "linkToMore": {
+            "title": "לכל שירותי המשרד",
+            "alt": null,
+            "id": null,
+            "url": "https://www.gov.il/he/services/department/a4558f18-657b-450e-87c3-32d70f6e07b5?unitId=&topicId=&subTopicId=&targetAudienceId=&subTargetAudienceId=",
+            "isExternal": false
+        },
+        "id": "services-strip-container",
+        "containerClass": null,
+        "order": 6
+    },
+    "topicsStrip": {
+        "stripModel": {
+            "topics": [
+                {
+                    "title": "רישוי כלי ירייה",
+                    "icon": "/blobFolder/topicpage/licensing_of_firearms/he/home_icons_רישוי_כלי_ירייה.svg",
+                    "alt": "",
+                    "link": {
+                        "title": null,
+                        "alt": null,
+                        "id": "topic_0",
+                        "url": "https://www.gov.il/he/departments/topics/licensing_of_firearms",
+                        "isExternal": false
+                    },
+                    "subTopics": null
+                },
+                {
+                    "title": "שיטור ואכיפה",
+                    "icon": "/blobFolder/topicpage/policing_and_law_enforcement/he/home_icons_שיטור_ואכיפה.svg",
+                    "alt": "",
+                    "link": {
+                        "title": null,
+                        "alt": null,
+                        "id": "topic_1",
+                        "url": "https://www.gov.il/he/departments/topics/policing_and_law_enforcement",
+                        "isExternal": false
+                    },
+                    "subTopics": null
+                },
+                {
+                    "title": "כיבוי והצלה",
+                    "icon": "/blobFolder/topicpage/fire_and_rescue/he/home_icons_כיבוי_והצלה.svg",
+                    "alt": "",
+                    "link": {
+                        "title": null,
+                        "alt": null,
+                        "id": "topic_2",
+                        "url": "https://www.gov.il/he/departments/topics/fire_and_rescue",
+                        "isExternal": false
+                    },
+                    "subTopics": null
+                },
+                {
+                    "title": "קשרי חוץ",
+                    "icon": "/blobFolder/topicpage/foreign-relations/he/home_icons_קשרי_חוץ.svg",
+                    "alt": "",
+                    "link": {
+                        "title": null,
+                        "alt": null,
+                        "id": "topic_3",
+                        "url": "https://www.gov.il/he/departments/topics/foreign-relations",
+                        "isExternal": false
+                    },
+                    "subTopics": null
+                },
+                {
+                    "title": "מוכנות לחירום",
+                    "icon": "/blobFolder/topicpage/emergency_preparedness/he/home_icons_מוכנות לחירום.svg",
+                    "alt": "",
+                    "link": {
+                        "title": null,
+                        "alt": null,
+                        "id": "topic_4",
+                        "url": "https://www.gov.il/he/departments/topics/emergency_preparedness",
+                        "isExternal": false
+                    },
+                    "subTopics": null
+                },
+                {
+                    "title": "קבילות שוטרים וסוהרים",
+                    "icon": "/blobFolder/topicpage/police-prison-ombudsman/he/home_icons_נציבות_קבילות.svg",
+                    "alt": "",
+                    "link": {
+                        "title": null,
+                        "alt": null,
+                        "id": "topic_5",
+                        "url": "https://www.gov.il/he/departments/topics/police-prison-ombudsman",
+                        "isExternal": false
+                    },
+                    "subTopics": null
+                },
+                {
+                    "title": "הגנת עדים",
+                    "icon": "/blobFolder/topicpage/witness_protection/he/home_icons_הגנת_עדים1.svg",
+                    "alt": "",
+                    "link": {
+                        "title": null,
+                        "alt": null,
+                        "id": "topic_6",
+                        "url": "https://www.gov.il/he/departments/topics/witness_protection",
+                        "isExternal": false
+                    },
+                    "subTopics": null
+                },
+                {
+                    "title": "כליאה ושיקום",
+                    "icon": "/blobFolder/topicpage/detention_and_corrections/he/home_icons_כליאה_ושיקום.svg",
+                    "alt": "",
+                    "link": {
+                        "title": null,
+                        "alt": null,
+                        "id": "topic_7",
+                        "url": "https://www.gov.il/he/departments/topics/detention_and_corrections",
+                        "isExternal": false
+                    },
+                    "subTopics": null
+                },
+                {
+                    "title": "צמצום הפשיעה בחברה הערבית",
+                    "icon": "/blobFolder/topicpage/arab-violence-reduction/he/home_icons_arab-violence.png",
+                    "alt": "",
+                    "link": {
+                        "title": null,
+                        "alt": null,
+                        "id": "topic_8",
+                        "url": "https://www.gov.il/he/departments/topics/arab-violence-reduction",
+                        "isExternal": false
+                    },
+                    "subTopics": null
+                },
+                {
+                    "title": "טיוב הרגולציה ברישוי עסקים",
+                    "icon": "/blobFolder/topicpage/business_regulation_improvement/he/home_icons_טיוב_הרגולציה_ברישוי_עסקים.svg",
+                    "alt": "",
+                    "link": {
+                        "title": null,
+                        "alt": null,
+                        "id": "topic_9",
+                        "url": "https://www.gov.il/he/departments/topics/business_regulation_improvement",
+                        "isExternal": false
+                    },
+                    "subTopics": null
+                }
+            ],
+            "expandButtonOptions": {
+                "isExpanded": false,
+                "showLessTitle": "הצג פחות נושאים",
+                "showMoreTitle": "הצג עוד נושאים",
+                "isSmallButton": false
+            }
+        },
+        "stripTitle": "נושאים",
+        "stripDescription": null,
+        "linkToMore": null,
+        "id": "topics-strip-container",
+        "containerClass": null,
+        "order": 5
+    },
+    "dynamicBannerStrip": null,
+    "videoStrip": {
+        "stripModel": "https://www.youtube.com/embed/nlJ6qK-JoNI",
+        "stripTitle": "הצטרפו לכיתות הכוננות של משטרת ישראל",
+        "stripDescription": null,
+        "linkToMore": null,
+        "id": "video-strip-container",
+        "containerClass": null,
+        "order": 16
+    },
+    "headContent": null,
+    "redirectUrl": null,
+    "pageTitle": "המשרד לביטחון לאומי",
+    "pageDescription": "המשרד לביטחון לאומי הוא גוף מטה משולב האמון על אכיפת החוק, על שמירת הסדר הציבורי ועל פעילות ביטחון הפנים במדינה באמצעות: משטרת ישראל, שירות בתי הסוהר, הרשות הארצית לכבאות והצלה, המטה הלאומי להגנה על ילדים ברשת, הרשות הלאומית לביטחון קהילתי, הרשות להגנה על עדים, והאגף לרישוי כלי ירייה.",
+    "facebookTracking": "",
+    "metaData": [
+        {
+            "name": "page-title",
+            "content": "המשרד לביטחון לאומי-gov.il",
+            "officeID": "483b9cd7-ece1-45fb-bb39-42926fc1ca84",
+            "officeDesc": "האגף לרישוי כלי ירייה",
+            "officeUrl": "ministry-of-public-security-firearms",
+            "contentType": "office"
+        },
+        {
+            "name": "description",
+            "content": "המשרד לביטחון לאומי הוא גוף מטה משולב האמון על אכיפת החוק, על שמירת הסדר הציבורי ועל פעילות ביטחון הפנים במדינה באמצעות: משטרת ישראל, שירות בתי הסוהר, הרשות הארצית לכבאות והצלה, המטה הלאומי להגנה על ילדים ברשת, הרשות הלאומית לביטחון קהילתי, הרשות להגנה על עדים, והאגף לרישוי כלי ירייה.",
+            "officeID": "483b9cd7-ece1-45fb-bb39-42926fc1ca84",
+            "officeDesc": "האגף לרישוי כלי ירייה",
+            "officeUrl": "ministry-of-public-security-firearms",
+            "contentType": "office"
+        },
+        {
+            "name": "office",
+            "content": "המשרד לביטחון לאומי",
+            "officeID": "483b9cd7-ece1-45fb-bb39-42926fc1ca84",
+            "officeDesc": "האגף לרישוי כלי ירייה",
+            "officeUrl": "ministry-of-public-security-firearms",
+            "contentType": "office"
+        },
+        {
+            "name": "ContentType",
+            "content": "office",
+            "officeID": "483b9cd7-ece1-45fb-bb39-42926fc1ca84",
+            "officeDesc": "האגף לרישוי כלי ירייה",
+            "officeUrl": "ministry-of-public-security-firearms",
+            "contentType": "office"
+        },
+        {
+            "name": "OfficeDesc",
+            "content": "האגף לרישוי כלי ירייה",
+            "officeID": "483b9cd7-ece1-45fb-bb39-42926fc1ca84",
+            "officeDesc": "האגף לרישוי כלי ירייה",
+            "officeUrl": "ministry-of-public-security-firearms",
+            "contentType": "office"
+        },
+        {
+            "name": "OfficeID",
+            "content": "483b9cd7-ece1-45fb-bb39-42926fc1ca84",
+            "officeID": "483b9cd7-ece1-45fb-bb39-42926fc1ca84",
+            "officeDesc": "האגף לרישוי כלי ירייה",
+            "officeUrl": "ministry-of-public-security-firearms",
+            "contentType": "office"
+        },
+        {
+            "name": "OfficeUrl",
+            "content": "ministry-of-public-security-firearms",
+            "officeID": "483b9cd7-ece1-45fb-bb39-42926fc1ca84",
+            "officeDesc": "האגף לרישוי כלי ירייה",
+            "officeUrl": "ministry-of-public-security-firearms",
+            "contentType": "office"
+        }
+    ],
+    "pageSharedImage": "/blobFolder/office/ministry_of_public_security/he/web_kol_kore.png",
+    "pageSharedDefaultImage": "https://www.gov.il/Content/Images/Ver_2/default_logo.png",
+    "shareThisPageTitle": "שתפו:",
+    "followUsTitle": "עקבו אחרינו",
+    "shareThisPageList": [
+        {
+            "name": "telegram-1",
+            "value": {
+                "title": "שתפו בטלגרם",
+                "alt": null,
+                "id": "sharePage_0",
+                "url": "https://t.me/share/url?url={href}",
+                "isExternal": true
+            }
+        },
+        {
+            "name": "email3",
+            "value": {
+                "title": "שתפו באימייל",
+                "alt": null,
+                "id": "sharePage_1",
+                "url": "mailto:?subject=המשרד לביטחון לאומי&body={href}",
+                "isExternal": true
+            }
+        },
+        {
+            "name": "twitter3",
+            "value": {
+                "title": "שתפו בטוויטר",
+                "alt": null,
+                "id": "sharePage_2",
+                "url": "https://twitter.com/intent/tweet?url={href}",
+                "isExternal": true
+            }
+        },
+        {
+            "name": "linkedin3",
+            "value": {
+                "title": "שתפו בלינקדאין",
+                "alt": null,
+                "id": "sharePage_3",
+                "url": "https://www.linkedin.com/shareArticle?mini=true&url={href}",
+                "isExternal": true
+            }
+        },
+        {
+            "name": "facebook3",
+            "value": {
+                "title": "שתפו בפייסבוק",
+                "alt": null,
+                "id": "sharePage_4",
+                "url": "https://facebook.com/sharer.php?u={href}",
+                "isExternal": true
+            }
+        },
+        {
+            "name": "whatsapp3",
+            "value": {
+                "title": "שתפו בוואטסאפ",
+                "alt": null,
+                "id": "sharePage_5",
+                "url": "https://api.whatsapp.com/send?text={href}",
+                "isExternal": true
+            }
+        }
+    ],
+    "shareThisPageAccessibilityTitle": "נפתח בחלון חדש",
+    "socialNetworksList": [
+        {
+            "name": "facebook",
+            "value": {
+                "title": "פייסבוק",
+                "alt": null,
+                "id": "socialNetwork_0",
+                "url": "https://www.facebook.com/MopsGov",
+                "isExternal": true
+            }
+        },
+        {
+            "name": "youtube",
+            "value": {
+                "title": "יוטיוב",
+                "alt": null,
+                "id": "socialNetwork_1",
+                "url": "https://www.youtube.com/user/mopsgov",
+                "isExternal": true
+            }
+        },
+        {
+            "name": "instagram",
+            "value": {
+                "title": "איסנטגרם",
+                "alt": null,
+                "id": "socialNetwork_2",
+                "url": "https://www.instagram.com/mopsisrael/",
+                "isExternal": true
+            }
+        }
+    ],
+    "breadcrumbsObject": {
+        "breadcrumbsDescription": "מיקום באתר",
+        "breadcrumbs": [
+            {
+                "title": "gov.il",
+                "alt": null,
+                "id": "breadcrumbs_home",
+                "url": "https://www.gov.il/he",
+                "isExternal": false
+            },
+            {
+                "title": "כל גופי הממשל",
+                "alt": null,
+                "id": "breadcrumbs_allOffices",
+                "url": "https://www.gov.il/he/departments/govil-landing-page",
+                "isExternal": false
+            },
+            {
+                "title": "המשרד לביטחון לאומי",
+                "alt": null,
+                "id": "breadcrumbs_page",
+                "url": null,
+                "isExternal": false
+            }
+        ],
+        "isPageTitleMissing": true
+    }
+}
