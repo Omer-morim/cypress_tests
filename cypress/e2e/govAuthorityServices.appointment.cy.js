@@ -1,7 +1,7 @@
 // cypress/e2e/govAuthorityServices.appointment.cy.js
 import govAuthorityServicesPage from './pages/govAuthorityServices.page';
 
-describe('T3 – services with appointment navigate to appointment URL', () => {
+describe('T3 - services with appointment navigate to appointment URL', () => {
 
   beforeEach(() => {
     cy.session('govisit-session', () => {
